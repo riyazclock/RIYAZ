@@ -1,6 +1,6 @@
 r=['a','e','i','o','u','A','E','I','O','U']
 d=['!','@','#','$','%','^','&']
-ch=str(input("enter the character"))
+ch=str(input())
 if(ch in r):
   print("vowels")
 elif(ch in d):
