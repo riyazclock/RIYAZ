@@ -1,2 +1,2 @@
 a=int(input())
-print ("hello"*a)
+print ("Hello"*a)
