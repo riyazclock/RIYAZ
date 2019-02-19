@@ -7,4 +7,4 @@ if no > 1:
    else:
        print("yes")    
 else:
-   print("Invalid"
+   print("Invalid")
