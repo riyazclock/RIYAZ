@@ -1,5 +1,5 @@
 a=input().split()
-n=int(a[0])
-k=int(a[1])
-pow=n**k
+e=int(a[0])
+r=int(a[1])
+pow=e**r
 print(pow)
