@@ -1,4 +1,4 @@
-a=input().split()
+c=input().split()
 start=int(a[0])
 end=int(a[1])
 for num in range(start+1 , end + 1): 
